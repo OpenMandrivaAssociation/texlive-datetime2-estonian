@@ -1,6 +1,6 @@
 Name:		texlive-datetime2-estonian
 Version:	47565
-Release:	1
+Release:	2
 Summary:	Estonian language module for the datetime2 package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-estonian
